@@ -1,5 +1,4 @@
 #include <stdio.h>
-<<<<<<< HEAD
 void PrintResult(int res)
 {
 printf("Result: %d\n", res);
